@@ -1,0 +1,63 @@
+* {
+  box-sizing: content-box;
+}
+}
+body {
+	padding: 0;
+	margin: 0;
+	background-color:black;
+}
+
+
+#top {
+	background-image: url(pi8Pd1.jpg);
+	height: 700px;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+ 	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.img {
+	background-image: url(pp.jpg);
+	height: 700px;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+ 	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.paragraph {
+	margin-top: 30%;
+
+}
+.paragraph h1 {
+	font-family: 'K2D', sans-serif;
+	font-size: 500%;
+}
+
+.paragraph p {
+	font-family: 'Roboto Slab', serif;
+	font-size: 150%
+}
+
+#dumb {
+	background-color:black;
+	color:white;
+	padding-bottom: 1%;
+
+}
+
+#rart {
+	background-color:black;
+	color:white;
+	text-align: center;
+	font-family: K2D;
+	padding-top: 1%;
+	font-size: 300%
+}
+
+.gamer {
+	font-family: 'Roboto Slab', serif;
+}
+
